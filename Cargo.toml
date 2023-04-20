@@ -12,4 +12,6 @@ members = [
 edition = "2021"
 
 [workspace.dependencies]
+postcard = "1.0.0"
 rppal = "0.14.1"
+serde = "1.0.160"
